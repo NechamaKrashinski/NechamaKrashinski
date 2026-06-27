@@ -41,4 +41,3 @@ Analytical thinker and fast learner, highly independent, with proven experience 
 
 ### 📫 Connect with Me
 - **Email:** n05567347@gmail.com
-- **Phone:** 055-6734722
