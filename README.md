@@ -1,5 +1,5 @@
 # I'm Nechama Krashinski 👋
-**Full Stack & Software Developer | AI Inference Infrastructure & Agents**
+**Software Engineer | Infrastructure, Full Stack & AI Agents**
 
 Analytical thinker and fast learner, highly independent, with proven experience building complex, performance-critical end-to-end systems and AI-assisted workflows.
 
